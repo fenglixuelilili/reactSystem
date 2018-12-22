@@ -1,12 +1,13 @@
 import React, { Component } from 'react';
-class App extends Component {
+import './index.css';
+class Login extends Component {
   render() {
     return (
       <div className="App">
-          {this.props.children}
+          登陆大页面
       </div>
     );
   }
 }
 
-export default App;
+export default Login;

@@ -5,8 +5,10 @@ export default class Footer extends React.Component{
     super(props)
   }
   render(){
-    return <div className="footer">
-        最终版权所有归个人解释
+    return <div className="home">
+        <div className="welcome">
+          欢迎进入 快买酒 后台管理系统!
+        </div>
     </div>
   }
 }

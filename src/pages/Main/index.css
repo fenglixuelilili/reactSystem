@@ -1,0 +1,22 @@
+.Main{
+  position: fixed;
+  left:0;
+  top:0;
+  height: 100%;
+  width: 100%;
+}
+.mainContainer{
+  height: 100%;
+  background-color: #f2f4f3;
+}
+.leftNav{
+  /* height: calc(100%); */
+  height: 100%;
+  background-color: #00142a!important;
+  padding:10px;
+}
+.rightContent{
+  padding: 10px;
+  
+  padding: 0;
+}

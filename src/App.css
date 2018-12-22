@@ -1,18 +1,3 @@
 .App{
-  position: fixed;
-  left:0;
-  top:0;
-  height: 100%;
-  width: 100%;
-}
-.mainContainer{
-  height: 100%;
-}
-.leftNav{
-  height: calc(100%);
-  background-color: #00142a;
-  padding:10px;
-}
-.rightContent{
-  padding: 10px;
+  /* height: 100%; */
 }

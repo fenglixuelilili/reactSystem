@@ -1,0 +1,12 @@
+.home{
+  padding: 30px;
+}
+.welcome{
+  background-color: #fff;
+  /* height: calc(60%); */
+  height: calc(430px);
+  font-size: 18px;
+  text-align: center;
+  line-height: 410px;
+  font-weight: 800;
+}
